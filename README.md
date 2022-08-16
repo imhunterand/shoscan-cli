@@ -17,7 +17,7 @@ Shodanscan is a bash scripting search queries using the shodan cli. 🔥
 ## Installation Commands
 Clone the repository
 ```
-git clone https://github.com/imhunterand/shoscan.git
+git clone https://github.com/imhunterand/shoscan-cli.git
 ```
 Go to the newly created directory
 ```
