@@ -10,7 +10,7 @@ Shodanscan is a bash scripting search queries using the shodan cli. 🔥
 ## Requirements:
   * git
   * python3
-  * pip3
+  * pip3 
   * The official Python library for Shodan
   * Shodan API-Key
   
