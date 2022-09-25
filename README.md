@@ -6,7 +6,7 @@ Shodanscan is a bash scripting search queries using the shodan cli. 🔥
 
 ![image](https://user-images.githubusercontent.com/109766416/183215016-f97719c4-0b58-427d-afcb-6341976d14ab.png)
 
-
+ 
 ## Requirements:
   * git
   * python3
@@ -35,7 +35,7 @@ bash run.sh
  * setup.sh installs shodan cli(Command Line Interface) and the official Python library for Shodan.
  * This script is just meant to be an automation for the Shodan-CLI(The query filters from CLI require user to have Query credits.)
  * It offers an user-friendly CLI.
-
+ 
 # User Disclaimer
  * It is recommended to use and have some experience with the shodan search engine using a web-browser before using the script.
  * Read more about shodan and their services at [shodan](https://shodan.io).
